@@ -1,0 +1,14 @@
+{
+  "name": "local-rtmp-server",
+  "productName": "Local RTMP Server",
+  "version": "0.0.1",
+  "description": "Local streaming server",
+  "main": "app.js",
+  "dependencies": {
+    "node-media-server": "^2.1.6"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
